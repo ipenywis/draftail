@@ -1,0 +1,10 @@
+ 74391 dist/draftail.cjs.js
+ 15861 dist/draftail.cjs.js.gz
+ 38194 dist/draftail.cjs.min.js
+  9272 dist/draftail.cjs.min.js.gz
+  4338 dist/draftail.css
+  1288 dist/draftail.css.gz
+ 73532 dist/draftail.esm.js
+ 15773 dist/draftail.esm.js.gz
+232649 total
+Mon Jan  7 02:03:09 UTC 2019

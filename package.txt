@@ -1,0 +1,30 @@
+
+📦  draftail@1.0.0
+=== Tarball Contents === 
+4.7kB  package.json                      
+20.4kB CHANGELOG.md                      
+1.1kB  LICENSE                           
+2.9kB  README.md                         
+74.4kB dist/draftail.cjs.js              
+4.3kB  dist/draftail.css                 
+73.5kB dist/draftail.esm.js              
+2.1kB  lib/api/_constants.scss           
+109B   lib/blocks/DividerBlock.scss      
+2.0kB  lib/components/DraftailEditor.scss
+94B    lib/components/Icon.scss          
+517B   lib/components/Toolbar.scss       
+739B   lib/components/ToolbarButton.scss 
+392B   lib/components/ToolbarGroup.scss  
+2.8kB  lib/components/ToolbarTooltip.scss
+276B   lib/index.scss                    
+=== Tarball Details === 
+name:          draftail                                
+version:       1.0.0                                   
+filename:      draftail-1.0.0.tgz                      
+package size:  45.1 kB                                 
+unpacked size: 190.5 kB                                
+shasum:        8494743d89924a466a44733c5ed18442a1e24236
+integrity:     sha512-cdWlQTLlnQ9DF[...]WIp8NXJoDaeHQ==
+total files:   16                                      
+
+Mon Jan  7 02:03:10 UTC 2019
